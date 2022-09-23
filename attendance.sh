@@ -1,6 +1,6 @@
 #!/bin/bash
 #This randomly generates attendance
-
+#another comment
 for STUDENT in Josh Vanessa Victor Scott Hadeel Jaime
 do
 	ATTENDANCEN=$RANDOM
